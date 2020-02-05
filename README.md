@@ -1,6 +1,6 @@
 # python-lab
 ```
-name - sakshi garg
+name - miss sakshi garg
 program - btech cs
 section - o
 rollno - 20
