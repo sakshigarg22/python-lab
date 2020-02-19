@@ -1,0 +1,6 @@
+t = (1,2,2,34,5)
+for i in t:
+        if t.count(i)>1:
+                print(i)                                              )                
+                
+        
